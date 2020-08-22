@@ -1,5 +1,8 @@
 # Emotion Recognition
 
+### Here is the paper for the work done by students of Worcester Polytechnic University and me
+https://drive.google.com/file/d/1QYImlBBO5jk0Ot2CiasX-ZuJhe9uGUqO/view?pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhY21tc2V8Z3g6NWY0N2I1NmNkNzRhNWFkMQdrive.google.com/file/d/1QYImlBBO5jk0Ot2CiasX-ZuJhe9uGUqO/view
+
 ### Data
 Data folder includes the dataset with counted features using create_csv.py script. It includes about 10000 samples and 9 classes of emotions
 This dataset is used for model in model folder
